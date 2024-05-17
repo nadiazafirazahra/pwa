@@ -1,0 +1,24 @@
+{
+"products": [
+[{"id":1,"name":"Southern brown bandicoot","category":"Indigo"},
+{"id":2,"name":"Cardinal, red-capped","category":"Fuscia"},
+{"id":3,"name":"Common genet","category":"Blue"},
+{"id":4,"name":"Tortoise, radiated","category":"Maroon"},
+{"id":5,"name":"House sparrow","category":"Mauv"},
+{"id":6,"name":"Black curlew","category":"Turquoise"},
+{"id":7,"name":"Rhinoceros, white","category":"Maroon"},
+{"id":8,"name":"Three-banded plover","category":"Pink"},
+{"id":9,"name":"Grey lourie","category":"Pink"},
+{"id":10,"name":"Mara","category":"Pink"},
+{"id":11,"name":"Lilac-breasted roller","category":"Mauv"},
+{"id":12,"name":"Vulture, white-rumped","category":"Puce"},
+{"id":13,"name":"Gonolek, burchell's","category":"Yellow"},
+{"id":14,"name":"Stork, marabou","category":"Aquamarine"},
+{"id":15,"name":"Barbet, black-collared","category":"Mauv"},
+{"id":16,"name":"Macaque, bonnet","category":"Purple"},
+{"id":17,"name":"Cat, civet","category":"Violet"},
+{"id":18,"name":"Sugar glider","category":"Goldenrod"},
+{"id":19,"name":"Coqui partridge","category":"Crimson"},
+{"id":20,"name":"Blue crane","category":"Red"}
+]
+}
